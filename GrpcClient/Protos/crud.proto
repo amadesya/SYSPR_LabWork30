@@ -1,0 +1,55 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "ProductService";
+
+import	"google/protobuf/timestamp.proto";
+import	"google/protobuf/empty.proto";
+
+package crud;
+
+service OrderService {
+  rpc CreateOrder (CreateOrderRequest) returns (Order);
+  rpc UpdateOrder (UpdateOrderRequest) returns (Order);
+  rpc DeleteOrder (DeleteOrderRequest) returns (Order);
+  rpc GetOrder (GetOrderRequest) returns (Order);
+  rpc ListOrder (google.protobuf.Empty) returns (OrderList);
+}
+message Order {
+	int32 id = 1;
+	google.protobuf.Timestamp date = 2;
+	repeated Product products = 3;
+}
+
+message Product {
+	string name = 1;
+    double price = 2;
+}
+
+message CreateOrderRequest {
+	int32 id = 1;
+	google.protobuf.Timestamp date = 2;
+	repeated Product products = 3;
+}
+
+message UpdateOrderRequest {
+	int32 id = 1;
+	google.protobuf.Timestamp date = 2;
+	repeated Product products = 3;
+}
+
+message DeleteOrderRequest {
+	int32 id = 1;
+}
+
+message GetOrderRequest {
+	int32 id = 1;
+}
+
+message OrderList {
+	repeated Order Orders = 1;
+}
+
+message FilterRequest {
+  google.protobuf.Timestamp date = 1;
+  double min_price = 2;
+}

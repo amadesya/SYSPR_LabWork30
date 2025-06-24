@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|c:\\temp\\.ispp-21\\mdk 01.04\\labwork30\\grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|c:\\temp\\.ispp-21\\mdk 01.04\\labwork30\\grpcserver\\services\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\services\\orderdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDA7483-9DFE-42E9-9A22-0C54B7ED0A40}|GrpcClient\\GrpcClient.csproj|c:\\temp\\.ispp-21\\mdk 01.04\\labwork30\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDA7483-9DFE-42E9-9A22-0C54B7ED0A40}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|c:\\temp\\.ispp-21\\mdk 01.04\\labwork30\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|c:\\temp\\.ispp-21\\mdk 01.04\\labwork30\\grpcserver\\protos\\crud.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8D90646F-D8A6-48D3-944B-FD8AD71E5098}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\protos\\crud.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcServer\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:42:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "crud.proto",
+              "DocumentMoniker": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Protos\\crud.proto",
+              "RelativeDocumentMoniker": "GrpcServer\\Protos\\crud.proto",
+              "ToolTip": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Protos\\crud.proto",
+              "RelativeToolTip": "GrpcServer\\Protos\\crud.proto",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-06-18T12:46:13.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Program.cs",
+              "RelativeToolTip": "GrpcServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:44:57.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcClient\\Program.cs",
+              "RelativeToolTip": "GrpcClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwDwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:36:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDataService.cs",
+              "DocumentMoniker": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Services\\OrderDataService.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Services\\OrderDataService.cs",
+              "ToolTip": "C:\\Temp\\.ISPP-21\\MDK 01.04\\LabWork30\\GrpcServer\\Services\\OrderDataService.cs",
+              "RelativeToolTip": "GrpcServer\\Services\\OrderDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:02:08.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

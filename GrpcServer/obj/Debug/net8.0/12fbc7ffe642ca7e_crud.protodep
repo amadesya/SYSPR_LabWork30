@@ -1,0 +1,4 @@
+obj\Debug\net8.0\Protos/Crud.cs \
+obj\Debug\net8.0\Protos/CrudGrpc.cs: C:/NugetCache/Packages/grpc.tools/2.57.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/NugetCache/Packages/grpc.tools/2.57.0/build/native/include/google/protobuf/empty.proto\
+ Protos/crud.proto
